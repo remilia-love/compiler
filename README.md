@@ -1,2 +1,2 @@
 # compiler
-ustc编译原理2021秋课程实验
+flex+bison实现的c语言子集的分析器。
